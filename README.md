@@ -12,15 +12,10 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JS" alt="JS" wdith="40" height="40"/>&nbsp;
- 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40"   height="40"/>&nbsp;
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" wdith="40" height="40"/>&nbsp;
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="PY" alt="PY" wdith="40" height="40"/>&nbsp;
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="PY" alt="PY" wdith="40" height="40"/>&nbsp;
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="Redux" alt="Redux" wdith="40" height="40"/>&nbsp;
 </div>
 
