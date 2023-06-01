@@ -9,7 +9,6 @@
 ### [AudioDome](https://github.com/APH1997/AudioDome)
 ### [Keebsy](https://github.com/FrancisHuynh95/Capstone)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=francishuynh95&theme=dark&hide_border=true&border_radius=6)](https://git.io/streak-stats)
 
 <div>
 
