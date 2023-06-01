@@ -2,7 +2,7 @@
 
 ### I am a full time full-stack software engineer.
 ### Here are some of my projects:
-### HeirCNC
+### [HeirCNC](https://github.com/FrancisHuynh95/API-project)
 ### AudioDome
 ### [Keebsy](https://github.com/FrancisHuynh95/Capstone)
 
