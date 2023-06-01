@@ -4,7 +4,7 @@
 ### Here are some of my projects:
 ### HeirCNC
 ### AudioDome
-### Keebsy
+### [Keebsy](https://github.com/FrancisHuynh95/Capstone)
 
 <!--
 **FrancisHuynh95/FrancisHuynh95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
