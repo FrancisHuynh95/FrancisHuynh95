@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi, My name is Francis Huynh
+
+### I am a full time full-stack software engineer.
 
 <!--
 **FrancisHuynh95/FrancisHuynh95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
