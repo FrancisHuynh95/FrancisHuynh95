@@ -1,6 +1,9 @@
 # Hi, My name is Francis Huynh
 
 ### I am a full time full-stack software engineer.
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=francishuynh95&theme=dark&hide_border=true&border_radius=6)](https://git.io/streak-stats)
+
 ### Here are some of my projects:
 ### [HeirCNC](https://github.com/FrancisHuynh95/API-project)
 ### [AudioDome](https://github.com/APH1997/AudioDome)
