@@ -1,6 +1,6 @@
 # Hi, My name is Francis Huynh
 
-### I am a full time full-stack software engineer.
+### I am a full time full-stack software engineer with a background in Finance.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=francishuynh95&theme=dark&hide_border=true&border_radius=6)](https://git.io/streak-stats)
 
