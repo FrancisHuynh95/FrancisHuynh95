@@ -1,11 +1,30 @@
-# Hi, My name is Francis Huynh
+# 👋 Greetings from San Jose, California! 
 
-### I am a full time full-stack software engineer with a background in Finance. On my free time, I like to play video games, and build things like custom mechanical keyboards, and working on cars.
+### I'm Francis Huynh, a Finance graduate who's taken the leap into the world of Software Engineering. As I continue to refine my coding craft, I'm actively seeking new opportunities to contribute to innovative projects and collaborate with like-minded developers.
+
+### 💼 Currently a Software Engineer, I bring a unique blend of financial acumen and tech enthusiasm to the table. My journey involves transforming complex problems into elegant solutions and continuously expanding my skill set.
+
+### 🚗 Beyond coding, you'll often find me immersed in the world of mechanics, turning wrenches and reviving engines. My passion for working on cars mirrors the precision and attention to detail required in the software development process.
+
+### 🕹️ On the flip side, I'm also a gaming aficionado who finds solace in the digital realms. When not coding or tinkering with engines, I indulge in my love for video games—a perfect balance to the analytical aspects of my professional life.
+
+### ⌨️ Additionally, I have a knack for building unique, custom mechanical keyboards. This hobby exemplifies my love for both aesthetics and functionality—a philosophy that I bring to my coding projects as well.
+
+### 🌟 As I navigate this exciting journey in tech, I'm actively exploring opportunities to contribute my skills and creativity to impactful projects. If you share a passion for innovation and collaboration, I'd love to connect. Let's build something great together!
+
+### 📬 Feel free to explore my repositories, and if you have any exciting projects or job opportunities, I'm all ears! Drop me a message, and let's chat about the endless possibilities.
+
+### Happy coding! 🚀✨
+
+<br><br>
+
+<div>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=francishuynh95&theme=dark&hide_border=true&border_radius=6)](https://git.io/streak-stats)
-
-
+<br></br>
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=FrancisHuynh95)](https://github.com/LordDashMe/github-contribution-stats/)
+
+</div>
 
 ### Here are some of my projects:
 ### [HeirCNC](https://github.com/FrancisHuynh95/API-project)
