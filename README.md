@@ -4,6 +4,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=francishuynh95&theme=dark&hide_border=true&border_radius=6)](https://git.io/streak-stats)
 
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=FrancisHuynh95)](https://github.com/LordDashMe/github-contribution-stats/)
+
 ### Here are some of my projects:
 ### [HeirCNC](https://github.com/FrancisHuynh95/API-project)
 ### [AudioDome](https://github.com/APH1997/AudioDome)
